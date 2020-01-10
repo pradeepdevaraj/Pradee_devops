@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include <string.h>
  
-void main()
+void palindrom()
 {
     char string[25], reverse_string[25] = {'\0'};
     int  i, length = 0, flag = 0;

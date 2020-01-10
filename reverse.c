@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+void reverse ()
 {
   int n, r = 0;
 

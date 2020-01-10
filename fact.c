@@ -1,7 +1,7 @@
 #include <stdio.h>
-int fact(int n);    
+void fact(int n);    
 
-int main() {
+ {
     int x, i;
     printf("Enter a value for x: ");
     scanf("%d", &x);
